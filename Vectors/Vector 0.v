@@ -7,5 +7,5 @@ module top_module (
     assign outv=vec;
     assign o0=vec[0];
     assign o1=vec[1];
-    assign o2=vec[2];// Module body starts after module declaration
+    assign o2=vec[2];
 endmodule
